@@ -1,3 +1,24 @@
+.editor-form {
+  float: right;
+  margin-top: 20px;
+}
+
 .template-html {
   height: 500px;
+}
+
+.template-container a {
+	position: relative;
+}
+
+.template-container .popup {
+	background: rgba(255, 255, 255, 0.8);
+  border: 1px solid #999;
+  box-shadow: 0 0 5px #888888;
+  left: 0;
+  margin-top: 3px;
+  padding: 1px 0 0 2px;
+  position: absolute;
+  top: 1em;
+  width: 400px;
 }

@@ -112,7 +112,6 @@ $(document).ready(function() {
 
     // For each occurence, create an input field
     $occurences.each(function() {
-
       var $self = $(this);
 
       if($self.is('h1, h2, h3, h4, h5, h6')) {
